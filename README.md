@@ -16,7 +16,7 @@ Exige apenas um compilador C (`gcc` ou `clang`) e um sistema POSIX (Linux, WSL o
 
 ```bash
 # 1. Clona o repositório (ou salva o arquivo scanner.c)
-git clone [https://github.com/seu-usuario/c-port-scanner.git](https://github.com/seu-usuario/c-port-scanner.git)
+git clone https://github.com/neo-ryan/port_scanner.git
 cd c-port-scanner
 
 # 2. Compila com o GCC
